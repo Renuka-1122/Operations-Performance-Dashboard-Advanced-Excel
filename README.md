@@ -1,13 +1,13 @@
 # Operations-Performance-Dashboard-Advanced-Excel
-# 📊 Operations Performance Dashboard | Advanced Excel
 
-## 📌 Project Overview
+
+##  Project Overview
 
 Developed an interactive **Operations Performance Dashboard** using **Microsoft Excel** to analyze operational efficiency, task processing, audit performance, and quality metrics. The dashboard enables stakeholders to monitor key performance indicators (KPIs), identify operational bottlenecks, and make data-driven decisions through dynamic visualizations and interactive filtering.
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 Operations teams process thousands of tasks across multiple accounts, categories, and processors. Manual reporting makes it difficult to monitor performance, identify operational issues, and generate timely business insights.
 
@@ -15,7 +15,7 @@ This dashboard provides a centralized and interactive reporting solution to moni
 
 ---
 
-## 🎯 Business Objectives
+##  Business Objectives
 
 - Monitor operational productivity using key performance indicators.
 - Analyze task processing efficiency across different categories.
@@ -26,7 +26,7 @@ This dashboard provides a centralized and interactive reporting solution to moni
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dashboard was developed using two operational datasets containing information such as:
 
@@ -46,7 +46,7 @@ The dashboard was developed using two operational datasets containing informatio
 
 ---
 
-## 📊 Dashboard KPIs
+##  Dashboard KPIs
 
 The dashboard tracks the following business metrics:
 
@@ -58,7 +58,7 @@ The dashboard tracks the following business metrics:
 
 ---
 
-## 📈 Dashboard Analysis
+##  Dashboard Analysis
 
 The dashboard includes interactive visualizations to analyze:
 
@@ -81,7 +81,7 @@ Users can dynamically analyze the dashboard using slicers for:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Microsoft Excel
 - Pivot Tables
@@ -94,7 +94,7 @@ Users can dynamically analyze the dashboard using slicers for:
 
 ---
 
-## 🔍 Excel Features Used
+## Excel Features Used
 
 - Pivot Tables
 - Pivot Charts
@@ -110,7 +110,7 @@ Users can dynamically analyze the dashboard using slicers for:
 
 ---
 
-## 💡 Business Insights Delivered
+## Business Insights Delivered
 
 - Monitored operational performance using dynamic KPIs.
 - Identified top-performing processors and auditors.
@@ -121,7 +121,7 @@ Users can dynamically analyze the dashboard using slicers for:
 
 ---
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 
 - Business Analysis
 - Data Cleaning
@@ -138,7 +138,7 @@ Users can dynamically analyze the dashboard using slicers for:
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 ### Operations Performance Dashboard
 
@@ -152,7 +152,7 @@ Images/Operations_Dashboard.png
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Operations_Performance_Dashboard/
@@ -172,13 +172,13 @@ Operations_Performance_Dashboard/
 
 ---
 
-## 📌 Project Outcome
+## Project Outcome
 
 Designed an interactive operational dashboard that transforms raw operational data into meaningful business insights, enabling stakeholders to monitor operational performance, evaluate productivity, analyze quality metrics, and support data-driven decision-making through dynamic and user-friendly reporting.
 
 ---
 
-## ⭐ Key Highlights
+## Key Highlights
 
 - Interactive Excel Dashboard
 - Dynamic KPI Cards
